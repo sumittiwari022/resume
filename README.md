@@ -18,7 +18,7 @@ Goal:-
 To work in an industrial environment and make best use of my skills
 
 EXPERIENCE:
-1) To The New PVT LTD.
+1) TO THE NEW PVT LTD.
    [ DevOps Engineer (Sept 2021 - Present) ]
 
 EDUCATION:
