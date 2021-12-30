@@ -23,14 +23,14 @@ EXPERIENCE:
 
 EDUCATION:
 1)	Swami Rama Himalayan University, Dehradun
-    Bachelor of Technology (Computer Science & Engineering) [2017 – 2021]	
-    •	Pursuing Computer Science Engineering with specialization in Cloud Computing and Virtualization in collaboration with IBM.  
+    [ Bachelor of Technology (Computer Science & Engineering) [2017 – 2021]	
+    •	Completed Computer Science Engineering with specialization in Cloud Computing and Virtualization in collaboration with IBM.  ]
 2)	Doon Public School, Dehradun
-    12th [2016 – 2017]	
-    •	Completed 12th from ISC with PCM + Computer and English with 1st division
+    [ 12th [2016 – 2017]	
+    •	Completed 12th from ISC with PCM + Computer and English with 1st division ]
 3)	Doon Public School, Dehradun
-    10th [2014 – 2015]	
-    •	Completed 10th from ICSE with Science + Computer and English with 1st division
+    [ 10th [2014 – 2015]	
+    •	Completed 10th from ICSE with Science + Computer and English with 1st division ]
 
 Familiar Technical Skills:-
 
