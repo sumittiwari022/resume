@@ -17,6 +17,10 @@ LinkedIn/Social id: 	          sumittiwari022
 Goal:-
 To work in an industrial environment and make best use of my skills
 
+EXPERIENCE:
+1) To The New PVT LTD.
+   DevOps Engineer (Sept 2021 - Present)
+
 EDUCATION:
 1)	Swami Rama Himalayan University, Dehradun
     Bachelor of Technology (Computer Science & Engineering) [2017 – 2021]	
