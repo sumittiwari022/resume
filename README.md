@@ -27,10 +27,10 @@ EDUCATION:
     •	Completed Computer Science Engineering with specialization in Cloud Computing and Virtualization in collaboration with IBM.  ]
 2)	Doon Public School, Dehradun
     [ 12th [2016 – 2017]	
-    •	Completed 12th from ISC with PCM + Computer and English with 1st division ]
+    •	Completed 12th from ISC with PCM + Computer and English ]
 3)	Doon Public School, Dehradun
     [ 10th [2014 – 2015]	
-    •	Completed 10th from ICSE with Science + Computer and English with 1st division ]
+    •	Completed 10th from ICSE with Science + Computer and English ]
 
 Familiar Technical Skills:-
 
@@ -42,7 +42,7 @@ Familiar Technical Skills:-
 
 •	Platform known: Windows, Linux
 
-•	Technology: Amazon AWS SysOps (Storage- EBS, EFS, Ephemeral, Glacier; AWS Service - EC2, Security-Groups, S3, VPC, SNS, ELB, RDS, VPN, Route53, CloudWatch, IAM, Security), Git, Machine Learning, Android Development.
+•	Technology: Jenkins, Amazon AWS SysOps (Storage- EBS, EFS, Ephemeral, Glacier; AWS Service - EC2, Lambda, Cloudformation, ECS, Security-Groups, S3, VPC, SNS, ELB, RDS, VPN, Route53, CloudWatch, IAM, Security), Git, Machine Learning, Android Development.
 
 
 
